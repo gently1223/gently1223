@@ -17,7 +17,7 @@ Passionate about launching, developing, and maintaining web and mobile projects 
 - GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
 - Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
 - Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin
-<!--
+
 **gently1223/gently1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
