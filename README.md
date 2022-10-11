@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Seniro Software Engineer. Especially, I have proven experience with Artificial Intelligence, Full-stack, Mobile & Desktop app developement. I have over 8+ years of experience in Web, Mobile, Desktop App and IT consult.
+
+Passionate about launching, developing, and maintaining web and mobile projects requiring a broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and back-end development, mobile app development, system and application security, auditing and project management.
 <!--
 **gently1223/gently1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
