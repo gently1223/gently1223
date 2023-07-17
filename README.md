@@ -1,4 +1,4 @@
-![demo](doc/demo.gif)
+![demo](doc/demo1.gif)
 
 ### Hi there 👋
 
