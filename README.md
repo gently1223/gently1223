@@ -1,3 +1,5 @@
+![demo](doc/demo.gif)
+
 ### Hi there 👋
 
 I am a Senior Software Engineer. Especially, I have proven experience with Artificial Intelligence, Full-stack, Mobile & Desktop app development. I have over 8+ years of experience in Web, Mobile, Desktop App and IT consult.
