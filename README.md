@@ -4,6 +4,11 @@ I am a Senior Software Engineer. Especially, I have proven experience with Artif
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and back-end development, mobile app development, system and application security, auditing and project management.
 
+#### Machine Learning
+
+- Tensorflow, PyTorch, Keras, Scikit-learn
+- Computer Vision, Natural Language Processing, Reat-time Analysis
+
 #### Web & Mobile Development
 
 - HTML5, CSS3, JavaScript, jQuery, Prototype
