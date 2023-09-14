@@ -9,7 +9,7 @@ Passionate about launching, developing, and maintaining web and mobile projects 
 #### Machine Learning
 
 - Tensorflow, PyTorch, Keras, Scikit-learn
-- Computer Vision, Natural Language Processing, Reat-time Analysis
+- Computer Vision, Natural Language Processing, Real-time Analysis
 
 #### Web & Mobile Development
 
